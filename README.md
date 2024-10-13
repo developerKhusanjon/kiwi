@@ -1,2 +1,2 @@
 # Kiwi
-Build your bot
+Build your bot. Simplified fsm based bots with Cats Effect
